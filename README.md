@@ -1,4 +1,3 @@
-# credit_score_analysis
 ```python
 import numpy as np
 import pandas as pd
